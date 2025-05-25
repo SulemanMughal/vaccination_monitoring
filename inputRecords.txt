@@ -1,0 +1,500 @@
+7864 Alice Johnson France 29 COVID-19 YES 2022-03-11
+3048 Hank Johnson UK 72 Polio YES 2022-09-13
+1137 Grace Brown UK 90 Polio NO
+36 Bob Smith Italy 64 Influenza NO
+2356 Grace Davis Italy 87 Influenza NO
+8044 Eve Jones Greece 32 COVID-19 YES 2024-05-10
+423 Diana Smith Italy 93 COVID-19 NO
+6929 Alice Jones France 83 Influenza NO
+1212 Hank Smith Spain 73 Hepatitis-B YES 2022-07-13
+2884 Diana Jones Spain 20 COVID-19 YES 2023-05-12
+6807 Bob Brown UK 50 Influenza NO
+2305 Grace Davis Italy 48 Polio YES 2023-08-12
+4534 Grace Brown France 90 Influenza NO
+1126 Grace Miller Greece 88 COVID-19 YES 2024-04-24
+6403 John Williams France 42 COVID-19 NO
+8410 Frank Miller Italy 37 Influenza NO
+2058 Diana Jones Germany 52 Hepatitis-B YES 2023-12-02
+1348 Bob Johnson Spain 21 Influenza NO
+9607 Diana Brown Greece 34 Polio NO
+45 Eve Davis Canada 50 Polio NO
+323 John Davis UK 97 Hepatitis-B NO
+3129 Hank Davis Germany 81 COVID-19 NO
+1939 John Jones Italy 83 Hepatitis-B NO
+4471 Hank Johnson Greece 44 Influenza NO
+3354 Grace Miller UK 24 Polio YES 2024-06-23
+2213 Alice Johnson Greece 87 COVID-19 YES 2023-07-02
+3254 Diana Johnson UK 60 COVID-19 NO
+2844 Bob Jones Germany 78 Polio NO
+1250 Diana Williams Spain 23 Polio YES 2024-07-20
+7177 Alice Miller Greece 36 Hepatitis-B YES 2022-05-01
+1401 Eve Johnson Canada 50 Influenza NO
+3299 Frank Johnson Greece 64 Influenza YES 2022-08-18
+3041 John Jones USA 63 COVID-19 YES 2022-04-13
+1904 Alice Davis Italy 68 Hepatitis-B YES 2024-11-15
+5234 Grace Williams Greece 72 COVID-19 YES 2023-05-13
+95 Frank Smith UK 23 Polio YES 2022-07-17
+5269 Eve Jones Greece 62 Polio NO
+36 Diana Davis Italy 37 Polio YES 2023-08-27
+5796 John Smith Germany 86 Influenza NO
+9746 John Miller Spain 81 Polio YES 2022-07-19
+4946 Eve Smith UK 19 Influenza YES 2024-11-06
+5852 Alice Johnson Italy 76 Hepatitis-B NO
+4904 Hank Davis Canada 26 COVID-19 YES 2024-07-08
+3442 Grace Jones Greece 78 Polio NO
+2844 Frank Jones Canada 85 COVID-19 NO
+4839 Alice Smith UK 96 COVID-19 YES 2024-09-12
+5198 Bob Johnson Italy 59 COVID-19 YES 2022-05-19
+7770 Hank Smith USA 83 COVID-19 YES 2022-11-08
+4504 Grace Jones Italy 45 Hepatitis-B NO
+2218 Hank Brown Spain 36 Influenza NO
+705 Eve Miller France 75 Influenza YES 2022-11-18
+2591 John Smith Germany 21 Polio NO
+9553 Alice Johnson Greece 82 Hepatitis-B YES 2024-04-06
+6265 Bob Brown Italy 63 Influenza YES 2023-07-18
+6461 Hank Johnson Germany 58 COVID-19 NO
+5767 Eve Smith Italy 36 Polio NO
+9325 Eve Williams Greece 80 Hepatitis-B NO
+2823 Diana Smith Germany 82 Polio NO
+1761 Frank Smith UK 69 Polio YES 2022-10-16
+4650 Diana Davis Greece 80 Hepatitis-B YES 2022-10-01
+141 Alice Miller Italy 86 Hepatitis-B YES 2023-01-25
+3997 Alice Williams UK 66 Hepatitis-B YES 2022-01-16
+1299 Grace Smith Spain 54 Polio NO
+1445 Frank Jones Greece 28 Polio YES 2023-03-28
+2262 Bob Miller Greece 43 Hepatitis-B NO
+5293 Frank Miller Greece 74 COVID-19 YES 2022-09-17
+9671 Alice Johnson UK 61 Hepatitis-B YES 2022-11-28
+1123 Eve Miller Italy 81 COVID-19 NO
+9538 Bob Jones Germany 63 COVID-19 YES 2024-06-02
+1861 Frank Johnson UK 53 Polio NO
+271 Diana Miller Germany 28 COVID-19 YES 2024-11-14
+2810 Eve Davis Spain 62 Polio NO
+9316 Eve Williams Germany 18 Hepatitis-B YES 2023-11-15
+882 Alice Smith France 77 Hepatitis-B YES 2024-10-23
+5760 Alice Williams Canada 51 Hepatitis-B YES 2023-10-23
+7367 Diana Williams France 62 Polio NO
+4254 Eve Jones Germany 19 Hepatitis-B YES 2024-10-06
+6474 John Davis UK 40 Hepatitis-B YES 2023-02-24
+2666 Frank Miller USA 65 COVID-19 NO
+377 Hank Smith Spain 93 COVID-19 YES 2023-03-08
+7284 John Williams France 70 Influenza YES 2023-12-03
+6728 Bob Jones Canada 56 Influenza YES 2023-11-26
+836 Diana Davis Canada 83 Polio YES 2024-06-19
+942 Diana Smith Spain 61 COVID-19 NO
+6911 Frank Johnson Italy 36 Influenza NO
+8197 Diana Davis USA 68 COVID-19 NO
+5066 Alice Smith Canada 90 Hepatitis-B YES 2023-02-06
+3361 John Johnson USA 100 Hepatitis-B YES 2023-09-16
+2400 Alice Jones Greece 76 Polio YES 2023-11-11
+4859 Eve Davis Greece 18 Polio NO
+7015 John Williams USA 43 Hepatitis-B YES 2022-03-24
+1630 Frank Davis USA 71 COVID-19 NO
+6665 Eve Brown Canada 55 Polio NO
+5433 John Miller Greece 23 Polio YES 2023-05-24
+5810 Frank Davis Italy 49 Hepatitis-B NO
+299 Hank Brown France 77 COVID-19 NO
+861 Frank Davis USA 72 COVID-19 YES 2024-07-07
+6886 John Brown Germany 57 Influenza NO
+2058 Grace Smith France 69 Hepatitis-B NO
+1143 Grace Davis Canada 73 COVID-19 NO
+5554 Grace Williams Germany 18 COVID-19 YES 2022-01-10
+1846 Hank Davis Canada 27 Influenza NO
+9823 Frank Williams Spain 22 Influenza NO
+4287 Diana Johnson Germany 31 Polio NO
+3739 Hank Williams USA 64 Hepatitis-B NO
+9279 Eve Brown USA 29 Influenza NO
+8535 Hank Jones Greece 61 Influenza YES 2022-12-05
+4325 Eve Johnson Italy 27 Polio NO
+103 Eve Miller UK 58 Polio NO
+6936 Bob Smith UK 47 COVID-19 YES 2024-04-08
+429 Bob Miller France 64 COVID-19 NO
+7104 Frank Davis USA 63 Influenza YES 2022-04-07
+2087 Hank Jones Canada 87 Polio YES 2023-08-23
+7542 John Davis France 67 Influenza YES 2022-10-03
+4440 John Johnson UK 39 COVID-19 YES 2022-02-08
+7906 Frank Smith USA 47 Influenza NO
+99 Diana Smith Germany 70 Influenza YES 2023-05-18
+6134 Bob Brown USA 69 Hepatitis-B NO
+3216 Grace Johnson Germany 76 COVID-19 NO
+92 Frank Johnson Greece 31 Hepatitis-B YES 2023-03-13
+7500 Frank Miller Greece 30 Influenza YES 2022-12-26
+6698 Diana Jones USA 65 COVID-19 NO
+1393 Diana Brown Greece 70 COVID-19 NO
+9665 John Miller Italy 42 Influenza NO
+7551 Diana Miller UK 27 Polio YES 2024-11-19
+2116 Hank Jones Greece 44 Hepatitis-B YES 2023-03-23
+5196 Alice Johnson France 85 COVID-19 YES 2023-11-11
+4557 Bob Jones USA 64 Polio NO
+1342 Bob Williams France 32 Influenza NO
+8964 Eve Davis Germany 53 Influenza NO
+897 Frank Jones Spain 65 Influenza YES 2022-05-04
+3908 Bob Jones UK 42 Polio YES 2023-03-26
+2797 Alice Davis Greece 52 Polio YES 2023-04-11
+7778 Diana Jones Greece 53 Influenza YES 2023-10-18
+7710 Hank Miller France 78 Influenza YES 2023-04-20
+8923 Hank Smith Italy 22 COVID-19 NO
+9262 Hank Smith France 47 Influenza NO
+953 Alice Davis Greece 71 COVID-19 NO
+517 Alice Williams Greece 61 Polio YES 2023-11-18
+1367 Diana Davis France 94 Polio YES 2023-12-26
+9740 Frank Smith Germany 47 COVID-19 NO
+2122 John Brown Canada 47 Hepatitis-B NO
+4624 John Williams Germany 18 COVID-19 NO
+9239 John Smith Italy 35 Hepatitis-B YES 2023-05-09
+5001 Diana Jones USA 37 Influenza NO
+9324 Eve Williams USA 54 Hepatitis-B YES 2024-03-21
+5781 Diana Williams UK 65 Hepatitis-B NO
+8178 Grace Brown Spain 88 Hepatitis-B NO
+4840 Eve Jones Germany 92 Hepatitis-B NO
+8437 Frank Johnson Italy 52 Polio NO
+889 Grace Williams Italy 71 COVID-19 YES 2022-08-06
+3681 Alice Johnson Greece 82 Influenza NO
+104 Bob Brown Canada 56 Polio NO
+1482 John Smith Canada 30 Polio NO
+7093 Grace Johnson France 77 COVID-19 YES 2022-01-23
+8667 Eve Miller Germany 77 Polio NO
+311 Hank Jones USA 96 Influenza YES 2024-06-12
+1367 Grace Smith Spain 68 Polio NO
+5930 Bob Smith France 36 Influenza YES 2022-06-16
+6563 John Davis France 83 Polio NO
+3377 John Smith UK 20 Hepatitis-B NO
+9645 John Miller Greece 46 COVID-19 YES 2023-07-08
+8981 Grace Miller Spain 22 Hepatitis-B NO
+1666 Alice Brown USA 39 Hepatitis-B YES 2022-06-20
+3228 Bob Williams Spain 71 Influenza YES 2024-07-17
+4126 Alice Smith Canada 64 Polio NO
+7858 John Smith France 28 Polio YES 2023-11-25
+1875 Grace Williams Spain 26 Influenza NO
+2405 Bob Davis USA 24 Hepatitis-B NO
+6122 Alice Brown Canada 92 COVID-19 NO
+4354 Hank Johnson Canada 31 Polio YES 2023-01-09
+4035 Grace Davis USA 42 Polio NO
+8839 Hank Smith Canada 28 Polio YES 2022-11-04
+3543 Alice Johnson Germany 90 Influenza YES 2023-07-26
+363 Hank Jones Spain 41 COVID-19 NO
+181 Bob Davis Canada 21 Polio YES 2022-05-28
+6513 Grace Miller Canada 39 COVID-19 YES 2024-05-09
+2579 Diana Smith USA 86 Influenza NO
+4483 Eve Davis Greece 37 Hepatitis-B YES 2023-02-20
+1560 Grace Miller Germany 31 Hepatitis-B YES 2023-11-19
+4867 John Jones Spain 88 Polio YES 2024-12-24
+5689 Hank Williams USA 59 Polio YES 2023-10-16
+4267 Bob Johnson Spain 82 Influenza YES 2022-05-25
+6727 Grace Jones Germany 18 Hepatitis-B YES 2023-07-24
+6701 Grace Brown Spain 63 Influenza YES 2024-12-20
+965 Eve Davis USA 54 Hepatitis-B YES 2024-08-14
+1676 Alice Smith USA 95 Polio YES 2022-06-12
+2580 Alice Davis Germany 35 Hepatitis-B YES 2023-08-20
+3239 John Davis Greece 52 COVID-19 NO
+2728 Eve Johnson Canada 18 COVID-19 NO
+1765 Alice Davis Italy 61 Hepatitis-B NO
+3540 Hank Miller USA 20 Polio YES 2023-07-27
+3807 John Johnson Germany 80 Polio NO
+4587 Frank Williams Italy 58 Hepatitis-B NO
+9999 Bob Williams France 84 Hepatitis-B NO
+696 Eve Williams USA 94 Influenza NO
+7895 Diana Williams Canada 30 Polio YES 2023-01-25
+2051 John Miller Spain 91 Hepatitis-B NO
+8709 John Miller UK 23 Polio YES 2023-09-17
+3186 Alice Davis Germany 47 Influenza NO
+8553 Alice Miller Germany 76 Hepatitis-B NO
+2537 Diana Brown Spain 19 Polio NO
+9750 Alice Davis UK 71 Influenza NO
+6370 Grace Miller Spain 44 Polio NO
+1088 Alice Miller France 25 COVID-19 NO
+471 Grace Brown Spain 89 Influenza YES 2024-09-27
+8967 Hank Johnson Spain 89 Influenza YES 2024-06-16
+979 Alice Miller USA 31 Polio NO
+7047 Grace Brown France 44 COVID-19 NO
+6418 Hank Jones France 52 Hepatitis-B YES 2024-11-25
+2762 Eve Smith France 19 Influenza YES 2024-11-22
+809 Frank Jones Canada 18 Influenza YES 2024-11-18
+5775 Hank Smith USA 43 Hepatitis-B NO
+5162 Frank Johnson Germany 79 Polio YES 2023-04-12
+8512 John Williams Italy 75 Influenza NO
+3943 Bob Jones Spain 94 Hepatitis-B NO
+9874 Alice Johnson France 79 COVID-19 NO
+2738 Hank Miller UK 95 COVID-19 YES 2023-10-03
+5295 Eve Davis France 78 COVID-19 YES 2024-07-17
+1075 Hank Smith Italy 34 COVID-19 YES 2022-01-02
+8186 Frank Davis Italy 35 Polio YES 2023-07-03
+9665 Alice Johnson Spain 35 Influenza YES 2022-09-27
+4355 Frank Jones Spain 42 COVID-19 YES 2024-04-23
+7593 Alice Smith USA 71 Hepatitis-B YES 2022-08-03
+1104 Bob Johnson Canada 37 Influenza NO
+5285 Bob Brown UK 93 Polio NO
+7461 John Davis UK 21 COVID-19 NO
+240 Alice Johnson Spain 28 Influenza YES 2024-10-24
+8628 Bob Johnson Greece 75 Influenza YES 2022-11-14
+4938 John Davis Germany 67 COVID-19 NO
+4909 Hank Williams Italy 41 COVID-19 YES 2022-06-23
+542 Alice Johnson Spain 93 Hepatitis-B NO
+257 Diana Miller Spain 20 Influenza NO
+9326 John Smith Italy 76 Polio YES 2022-12-21
+4536 John Johnson Spain 38 COVID-19 YES 2022-06-12
+6444 Eve Davis Greece 49 Polio NO
+958 Diana Davis Greece 74 Influenza NO
+6098 Grace Jones USA 62 COVID-19 NO
+3498 John Smith Germany 88 Polio YES 2022-12-19
+329 Hank Davis France 64 Hepatitis-B NO
+1428 Diana Brown Italy 33 Influenza NO
+1953 John Johnson UK 72 COVID-19 NO
+3729 Bob Smith Greece 63 Hepatitis-B YES 2023-10-21
+9952 Bob Smith Spain 50 Influenza NO
+2865 John Johnson Greece 22 Influenza YES 2022-08-22
+8048 Alice Johnson UK 89 Polio NO
+3294 Bob Jones France 35 Hepatitis-B NO
+457 Grace Brown Germany 59 Polio NO
+2144 Frank Jones Canada 23 Influenza NO
+9162 John Jones Greece 48 COVID-19 YES 2023-01-21
+3460 John Johnson USA 67 Polio NO
+2321 Grace Davis USA 19 Influenza NO
+7781 John Davis Italy 43 COVID-19 NO
+5096 Grace Johnson USA 79 COVID-19 YES 2022-01-02
+5405 Grace Brown Canada 66 Polio YES 2022-07-24
+1241 Eve Miller UK 92 Polio NO
+6443 Grace Jones UK 75 Influenza NO
+6307 John Jones Spain 73 Hepatitis-B YES 2024-08-16
+5776 Hank Brown Canada 70 Polio NO
+1872 Alice Miller UK 70 Hepatitis-B YES 2023-07-26
+2510 Hank Smith Canada 38 Influenza YES 2024-08-12
+90 Bob Johnson UK 44 Polio NO
+2851 Grace Brown Spain 94 COVID-19 NO
+3744 Eve Williams Spain 35 Influenza YES 2023-06-02
+5542 Bob Jones Spain 50 Hepatitis-B NO
+3153 Hank Williams Germany 24 Hepatitis-B YES 2023-01-20
+4674 Bob Johnson Italy 58 Polio NO
+8056 Grace Smith USA 98 Polio YES 2023-01-22
+2009 Hank Jones Spain 91 Polio YES 2023-06-21
+3073 Alice Jones UK 60 Influenza NO
+3229 Diana Brown France 37 Hepatitis-B YES 2023-01-11
+735 Bob Johnson Italy 82 Influenza YES 2022-04-15
+1647 Hank Jones Germany 83 Polio YES 2023-05-19
+1672 Frank Brown Italy 87 Influenza YES 2022-01-25
+2018 Grace Johnson Canada 96 Hepatitis-B NO
+1507 Hank Miller Germany 53 Hepatitis-B NO
+531 Eve Brown USA 69 Influenza NO
+532 Diana Jones Italy 30 Hepatitis-B NO
+8958 Hank Williams Canada 55 COVID-19 NO
+6277 Bob Brown Greece 55 Influenza YES 2024-01-19
+5966 John Brown France 97 COVID-19 NO
+1203 Hank Jones Spain 55 COVID-19 NO
+4276 Eve Jones France 43 Polio YES 2022-05-22
+8518 Frank Davis Greece 46 Influenza YES 2024-01-13
+5443 Grace Jones Greece 60 Polio NO
+1400 Bob Davis USA 92 Influenza YES 2024-05-05
+7291 Eve Brown Germany 92 COVID-19 NO
+814 Bob Williams Spain 81 Influenza YES 2024-11-04
+5400 Diana Jones UK 99 Polio NO
+9757 Grace Davis France 39 Influenza NO
+6408 Alice Jones UK 42 Polio NO
+4592 Frank Davis France 45 Hepatitis-B NO
+5707 Diana Davis Italy 62 Hepatitis-B YES 2024-12-19
+1499 Frank Jones USA 21 COVID-19 NO
+7904 Diana Miller Greece 84 Hepatitis-B NO
+239 Diana Johnson France 54 Polio YES 2022-05-09
+8527 Eve Williams Canada 25 Hepatitis-B NO
+987 John Davis USA 91 Influenza YES 2022-05-07
+3178 Alice Smith Germany 83 Hepatitis-B NO
+6271 Frank Brown Greece 74 Influenza YES 2023-05-13
+3050 Diana Davis Germany 72 Hepatitis-B NO
+7962 John Johnson Italy 18 Influenza YES 2022-11-11
+1944 Grace Jones USA 56 COVID-19 YES 2022-03-03
+6188 Eve Brown Italy 37 COVID-19 NO
+4096 John Jones UK 69 COVID-19 NO
+8367 Grace Davis Italy 54 Influenza YES 2023-06-03
+1459 John Jones Greece 48 COVID-19 NO
+4795 Diana Williams USA 64 Hepatitis-B NO
+1181 Diana Jones Spain 60 Hepatitis-B YES 2022-10-16
+2717 Bob Williams UK 80 Influenza YES 2022-07-16
+361 John Williams France 62 Polio YES 2022-04-04
+3522 Grace Miller Canada 50 Polio YES 2024-07-27
+8196 Diana Johnson UK 85 Hepatitis-B NO
+135 Frank Williams UK 78 Polio YES 2023-07-08
+1207 John Brown Greece 24 Influenza YES 2022-04-09
+361 Grace Brown Germany 93 Polio NO
+8137 Bob Davis Greece 98 COVID-19 YES 2023-10-14
+2102 Frank Williams Canada 35 Influenza NO
+4133 Hank Davis UK 36 Hepatitis-B NO
+1358 Alice Brown Greece 45 Influenza NO
+7952 Bob Jones Canada 54 Hepatitis-B NO
+6347 Frank Davis Canada 65 Influenza NO
+6181 Grace Davis Germany 21 Hepatitis-B NO
+6969 Diana Davis Spain 52 Influenza NO
+2403 Grace Davis Greece 52 Hepatitis-B NO
+8149 Bob Brown France 36 Polio YES 2024-03-07
+1642 John Williams UK 53 Hepatitis-B NO
+6820 Grace Williams UK 71 Polio NO
+501 Alice Jones Italy 50 Polio NO
+1171 Eve Jones Canada 38 Influenza NO
+1194 Eve Miller Greece 34 Hepatitis-B YES 2022-03-02
+2953 Alice Davis UK 88 Influenza NO
+904 John Jones Canada 78 Hepatitis-B YES 2024-07-09
+2327 Bob Miller France 88 Hepatitis-B YES 2022-06-16
+4099 Diana Miller Italy 69 Influenza NO
+4489 Diana Miller Italy 24 Hepatitis-B YES 2023-04-25
+5104 Hank Johnson UK 94 Hepatitis-B YES 2024-08-11
+5135 Eve Johnson Spain 31 COVID-19 YES 2024-03-04
+4638 John Johnson Germany 19 Polio NO
+2096 Frank Johnson Greece 78 Influenza YES 2023-09-12
+3542 Eve Williams Germany 33 Hepatitis-B NO
+8626 Grace Davis Germany 51 Polio YES 2022-07-17
+1333 Diana Smith Spain 76 Hepatitis-B NO
+1961 Bob Johnson Greece 53 Polio YES 2022-07-02
+91 Frank Smith Greece 80 COVID-19 YES 2024-02-08
+300 Alice Smith Italy 47 Polio NO
+309 Eve Brown USA 69 COVID-19 NO
+2579 John Smith UK 35 Hepatitis-B YES 2024-06-07
+849 Bob Miller Italy 81 Influenza NO
+8491 John Miller USA 36 Hepatitis-B NO
+1794 Hank Brown Germany 49 Influenza NO
+1729 Bob Williams Canada 84 Polio YES 2023-01-10
+1242 Diana Williams USA 19 Influenza YES 2024-01-14
+9862 Eve Miller Greece 27 Influenza YES 2022-08-06
+7279 Eve Davis Italy 76 COVID-19 NO
+3299 Eve Johnson France 99 COVID-19 YES 2022-02-26
+7566 John Miller USA 31 COVID-19 NO
+7409 John Davis Italy 59 Polio NO
+7386 Eve Miller UK 95 Polio NO
+695 Frank Jones Canada 35 COVID-19 YES 2024-03-22
+991 Diana Williams Spain 61 Hepatitis-B NO
+9585 Diana Smith Spain 30 Polio NO
+2456 Diana Johnson UK 54 Polio YES 2022-09-05
+157 Bob Davis France 76 COVID-19 NO
+1484 Grace Smith Italy 66 Hepatitis-B NO
+6111 John Smith Germany 42 Hepatitis-B NO
+1429 Alice Brown Italy 91 Hepatitis-B YES 2022-10-28
+3853 John Smith France 66 COVID-19 YES 2024-04-15
+8167 Diana Williams Italy 78 Polio YES 2024-05-28
+3678 Grace Williams USA 27 Hepatitis-B NO
+7801 Hank Jones UK 34 Polio YES 2022-08-21
+2489 Hank Johnson Canada 85 Influenza YES 2023-08-26
+4358 John Smith Germany 23 COVID-19 NO
+4509 John Smith USA 21 Influenza YES 2022-08-26
+1915 Bob Smith UK 87 Polio NO
+706 Grace Jones France 68 Influenza YES 2024-04-19
+74 Hank Smith USA 75 COVID-19 YES 2022-03-20
+1884 Diana Johnson Spain 75 Hepatitis-B YES 2022-03-19
+8533 John Smith Spain 57 Polio YES 2024-07-07
+5628 Bob Brown Spain 69 Hepatitis-B YES 2022-07-01
+2115 Hank Jones Italy 64 Polio NO
+3008 Diana Davis Greece 58 COVID-19 YES 2022-08-07
+2348 Frank Brown Canada 91 COVID-19 NO
+6737 Frank Brown USA 91 COVID-19 YES 2023-06-10
+5119 Frank Davis Italy 36 COVID-19 YES 2022-11-21
+4389 Diana Jones Greece 34 Influenza YES 2024-11-12
+7246 Frank Williams Italy 20 Hepatitis-B YES 2022-01-07
+1910 John Jones Spain 21 Polio NO
+9717 John Smith USA 97 COVID-19 NO
+1637 John Johnson Italy 28 Influenza NO
+1896 John Miller Germany 47 Hepatitis-B YES 2022-03-03
+9488 John Williams Spain 69 Polio YES 2024-02-20
+86 John Brown USA 57 Hepatitis-B YES 2022-08-08
+2413 Diana Smith France 80 Influenza NO
+6062 Hank Jones France 57 Influenza NO
+6740 John Smith UK 82 COVID-19 NO
+1485 Eve Williams Germany 56 Hepatitis-B YES 2024-09-19
+7018 Alice Jones France 34 Polio YES 2022-10-27
+9112 John Jones Greece 57 Influenza YES 2023-04-23
+4609 Diana Johnson Germany 91 Influenza NO
+8412 Frank Jones Canada 85 Polio NO
+470 Frank Miller UK 37 Influenza NO
+2557 Diana Johnson France 90 Polio NO
+783 Hank Smith Canada 48 Polio NO
+8390 Hank Miller Italy 30 Hepatitis-B YES 2022-06-17
+8838 Hank Brown Italy 71 Hepatitis-B NO
+6659 Diana Jones UK 23 Hepatitis-B YES 2023-12-02
+7588 Bob Williams Canada 25 Hepatitis-B NO
+3738 Alice Jones Germany 93 Polio YES 2022-09-14
+2607 Eve Davis Germany 95 Influenza NO
+4353 Frank Miller UK 88 Hepatitis-B NO
+1227 Frank Jones UK 71 COVID-19 NO
+4021 Alice Davis USA 35 Hepatitis-B YES 2022-08-17
+4779 Frank Brown Italy 83 Hepatitis-B YES 2024-01-10
+9610 John Jones Italy 57 Polio YES 2023-11-02
+7764 Diana Brown UK 69 Hepatitis-B NO
+5526 Alice Brown USA 26 Hepatitis-B YES 2024-02-10
+4320 Diana Jones Spain 97 COVID-19 YES 2024-09-03
+6217 John Miller USA 98 Hepatitis-B NO
+4089 Hank Jones Italy 62 Polio NO
+8160 Hank Jones Canada 67 COVID-19 YES 2024-08-03
+4347 Alice Miller Germany 65 Influenza YES 2023-04-13
+1980 Bob Johnson Canada 79 Polio NO
+4630 Hank Jones USA 42 Polio NO
+3345 John Smith Greece 34 Polio YES 2022-08-10
+1679 Hank Jones Germany 21 Influenza YES 2022-02-02
+6466 Grace Jones USA 66 Polio YES 2023-05-23
+54 Diana Jones Canada 29 Hepatitis-B YES 2023-04-07
+2852 Diana Williams Greece 34 Hepatitis-B YES 2024-09-27
+1137 Grace Johnson Spain 88 Hepatitis-B YES 2023-11-24
+4067 Alice Miller USA 59 Polio YES 2024-01-05
+4733 Eve Williams Greece 60 COVID-19 NO
+903 Frank Brown Canada 61 Hepatitis-B YES 2024-03-09
+6126 John Davis UK 21 Hepatitis-B NO
+7571 Grace Jones Germany 53 COVID-19 NO
+282 Hank Smith Canada 90 Polio NO
+9485 John Williams Greece 100 COVID-19 NO
+8467 Eve Brown USA 66 Hepatitis-B YES 2022-06-13
+789 John Jones Italy 86 Polio YES 2024-07-25
+1481 Grace Johnson Italy 94 COVID-19 NO
+6610 Bob Brown USA 20 Hepatitis-B YES 2023-11-26
+6027 Eve Brown France 54 Influenza YES 2023-03-14
+9904 Alice Miller USA 37 COVID-19 YES 2023-06-05
+2361 Bob Williams USA 93 COVID-19 YES 2023-10-04
+6674 Hank Johnson Germany 74 Hepatitis-B NO
+5158 Grace Jones UK 57 COVID-19 YES 2023-02-16
+8068 John Johnson Germany 33 Influenza NO
+3842 Bob Miller Canada 79 Hepatitis-B NO
+1112 Hank Jones UK 74 Hepatitis-B YES 2024-04-14
+2655 Eve Davis Greece 95 Polio YES 2023-11-12
+6922 Frank Jones Italy 66 Influenza YES 2024-10-12
+693 Alice Miller Greece 58 COVID-19 NO
+5750 Frank Smith France 82 Hepatitis-B YES 2023-03-08
+4042 Diana Johnson Greece 62 Influenza YES 2022-10-20
+2350 Eve Davis Greece 89 Hepatitis-B NO
+738 Alice Jones Germany 30 Polio NO
+3496 Frank Johnson Germany 51 Hepatitis-B NO
+5247 Eve Davis Greece 18 Polio YES 2023-03-23
+5181 Bob Brown Spain 55 Hepatitis-B NO
+8714 Diana Smith Canada 97 Hepatitis-B YES 2022-02-19
+3848 Bob Davis Spain 45 Polio NO
+2314 Grace Johnson Greece 44 Hepatitis-B YES 2024-05-26
+2189 Bob Davis UK 93 Influenza YES 2023-12-07
+7081 Diana Johnson UK 86 Hepatitis-B NO
+7873 Diana Davis Italy 30 Influenza NO
+494 Hank Jones Canada 26 COVID-19 YES 2024-07-02
+9633 Hank Jones France 30 Hepatitis-B NO
+1089 Frank Williams Canada 30 COVID-19 NO
+6740 Eve Williams UK 25 Polio NO
+2478 Grace Jones USA 39 Polio NO
+4041 Alice Davis USA 48 Hepatitis-B NO
+4438 Bob Johnson France 24 COVID-19 YES 2023-10-22
+5851 Eve Williams Greece 56 Hepatitis-B NO
+1546 Bob Smith Greece 71 Polio NO
+9914 Grace Jones USA 47 Hepatitis-B YES 2022-08-15
+3278 Hank Brown Canada 45 COVID-19 NO
+3728 Bob Davis Canada 29 Hepatitis-B YES 2024-10-09
+2185 Hank Jones Italy 48 COVID-19 YES 2023-03-16
+5025 Frank Jones USA 44 Influenza NO
+1653 Diana Jones Italy 43 COVID-19 NO
+460 Grace Miller Spain 97 COVID-19 NO
+2698 Eve Davis Germany 41 COVID-19 YES 2023-04-28
+7448 Eve Brown Spain 32 Hepatitis-B YES 2024-09-16
+8306 Frank Miller Canada 73 Hepatitis-B YES 2024-03-05
+3359 Alice Johnson UK 69 Hepatitis-B NO
+5914 Hank Davis Italy 42 Polio NO
+4998 Eve Smith France 91 Hepatitis-B NO
+7307 John Brown Greece 85 COVID-19 YES 2024-01-02
+436 Frank Miller Greece 31 COVID-19 NO
+5750 Frank Smith UK 24 Influenza YES 2022-01-26
+7383 Bob Williams Germany 23 Hepatitis-B NO
+2601 John Smith Spain 76 Polio NO
+6289 Diana Smith Italy 52 Influenza YES 2022-11-16
+15 Alice Davis France 93 Influenza YES 2024-02-10
+8352 Frank Johnson Greece 27 Hepatitis-B NO
+9388 John Williams France 63 COVID-19 NO
+8721 Grace Jones Canada 65 Hepatitis-B YES 2023-06-03
+4799 Diana Johnson Germany 98 COVID-19 YES 2024-12-25
+8128 Hank Williams UK 82 Hepatitis-B YES 2024-02-26
+9037 Bob Brown Greece 58 Hepatitis-B NO
